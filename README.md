@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @antoniopatti, a Digital Product Manager with a Philosophy degree and a nascent career as developer.
+- 😵 Currently studying at CS50X by HarwardX on EdX
+- 👍 Visit my site on https://antoniopatti.it/
