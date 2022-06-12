@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @antoniopatti, a Digital Product Manager with a Philosophy degree and a nascent career as developer.
-- 😵 Currently studying "Introduction to Computer Science" by HarwardX on EdX
+- 👋 Hi, I’m @antoniopatti, a Digital Product Manager learning to code.
 - 👍 Visit my site on https://antoniopatti.it/
