@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @antoniopatti, a Digital Product Manager learning to code.
-- 👍 Visit my site on https://antoniopatti.it/
+- 👋 Hi, I’m @antoniopatti, a Digital Product Manager learning code.
+- 👍 Visit my sites on https://antoniopatti.it/ and https://antoniopatti.com
